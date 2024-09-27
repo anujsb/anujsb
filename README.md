@@ -1,6 +1,18 @@
 # 💫 About Me:
 🔭 Full-stack developer with a passion for machine learning.<br>👯 I’m looking to collaborate on machine learning projects.<br>🤝 I’m looking for help with SAAS.<br>🌱 I’m currently learning machine learning.<br>💬 Ask me about automations.<br>📫 You can reach me here: anujsbhuyar@gmail.com
 
+# **Projects**
+- [21 Bubbles](https://21bubbles.com/) - Agency (freelance portfolio)
+- [Brotein Bistro](https://broteinbistro.com/) - Brotein Bistro cafe website (client)
+- [Brotein Bistro SaaS](https://app.broteinbistro.com/) - Brotein Bistro SaaS (client)
+- [Codegen Landing Page](https://codegen-langing-page.vercel.app/) - eacc.dev commit reviewer website (client)
+- [GitHub Proj](https://github.com/anujsb/github-proj) - eacc.dev commit reviewer SaaS
+- [AI Tools](https://aitools.21bubbles.com/) - AI tools list (self)
+- [Digi Palettes](https://www.digipalettes.com/) - Agency (intern)
+- [Lifetime Value Redesign](https://lifetimevalue.vercel.app/) - Redesigned parts of UI for The Lifetime Value Co. (LTV)
+- [Nyaysutra](https://nyaysutra.netlify.app/) - SIH Landing Page
+- [HireSync](https://hiresync-nu.vercel.app/) - Resume generator landing page (client)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anujbhuyar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_bhuyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anujbhuyar) 
