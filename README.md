@@ -5,8 +5,8 @@
 - [21 Bubbles](https://21bubbles.com/) - Agency (freelance portfolio)
 - [Brotein Bistro](https://broteinbistro.com/) - Brotein Bistro cafe website (client)
 - [Brotein Bistro SaaS](https://app.broteinbistro.com/) - Brotein Bistro SaaS (client)
-- [Codegen Landing Page](https://codegen-langing-page.vercel.app/) - eacc.dev commit reviewer website (client)
-- [GitHub Proj](https://github.com/anujsb/github-proj) - eacc.dev commit reviewer SaaS
+- [eacc.dev Landing Page](https://codegen-langing-page.vercel.app/) - eacc.dev commit reviewer website (client)
+- [eacc.dev Saas](https://github.com/anujsb/github-proj) - eacc.dev commit reviewer SaaS
 - [AI Tools](https://aitools.21bubbles.com/) - AI tools list (self)
 - [Digi Palettes](https://www.digipalettes.com/) - Agency (intern)
 - [Lifetime Value Redesign](https://lifetimevalue.vercel.app/) - Redesigned parts of UI for The Lifetime Value Co. (LTV)
