@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full-stack developer with a passion for machine learning.<br>👯 I’m looking to collaborate on machine learning projects.<br>🤝 I’m looking for help with SAAS.<br>🌱 I’m currently learning machine learning.<br>💬 Ask me about automations.<br>📫 You can reach me here: anujsbhuyar@gmail.com
+🔭 Full-stack developer with a passion for Frontend .<br>👯 I’m looking to collaborate on Softwares.<br>🤝 I’m looking for help with SAAS.<br>🌱 I’m currently learning machine learning.<br>📫 You can reach me here: anujsbhuyar@gmail.com
 
 # **Projects**
 - [21 Bubbles](https://21bubbles.com/) - Agency (freelance portfolio)
