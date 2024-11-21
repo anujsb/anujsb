@@ -3,6 +3,7 @@
 
 # **Projects**
 - [21 Bubbles](https://21bubbles.com/) - Agency (freelance portfolio)
+- [Ai Forms](https://aiforms.21bubbles.com/) - Ai form generator
 - [Brotein Bistro](https://broteinbistro.com/) - Brotein Bistro cafe website (client)
 - [Brotein Bistro SaaS](https://app.broteinbistro.com/) - Brotein Bistro SaaS (client)
 - [AI Tools](https://aitools.21bubbles.com/) - AI tools list (self)
